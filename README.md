@@ -5,6 +5,9 @@ This repository contains the C++ source code for the "Atelier 1: Implémentation
 ## Prerequisites
 
 You need a C++ compiler that supports the C++11 standard, such as `g++`.
+## Steps to Clone the Repository
+
+git clone https://github.com/AbdNasir24/Blockchain-Labs-.git
 
 ## Project Files
 
